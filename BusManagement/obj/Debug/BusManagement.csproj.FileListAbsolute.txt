@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\BusManagement\BusManagement\bin\Debug\BusManagement.exe.config
+C:\Users\user\source\repos\BusManagement\BusManagement\bin\Debug\BusManagement.exe
+C:\Users\user\source\repos\BusManagement\BusManagement\bin\Debug\BusManagement.pdb
+C:\Users\user\source\repos\BusManagement\BusManagement\obj\Debug\BusManagement.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BusManagement\BusManagement\obj\Debug\BusManagement.Form1.resources
+C:\Users\user\source\repos\BusManagement\BusManagement\obj\Debug\BusManagement.Properties.Resources.resources
+C:\Users\user\source\repos\BusManagement\BusManagement\obj\Debug\BusManagement.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BusManagement\BusManagement\obj\Debug\BusManagement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BusManagement\BusManagement\obj\Debug\BusManagement.exe
+C:\Users\user\source\repos\BusManagement\BusManagement\obj\Debug\BusManagement.pdb
